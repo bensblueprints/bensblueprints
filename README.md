@@ -1,133 +1,81 @@
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║        BUILDING THE FUTURE. AUTOMATING THE PRESENT.          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+# Benjamin Boyce
 
-# Hey, I'm the founder of **AdvancedMarketing.co** 👋
+Building **OneTimeSuite**: software you buy once, with the source on GitHub so "lifetime" isn't a promise you have to trust me to keep.
 
-### Building Software & AI Automation Systems
-### *To Make You Work Less, And Earn More.*
-
-[![Website](https://img.shields.io/badge/AdvancedMarketing.co-000000?style=for-the-badge&logo=safari&logoColor=white)](https://AdvancedMarketing.co)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-
-</div>
+Da Nang, Vietnam (UTC+7) · Advanced Marketing Limited
 
 ---
 
-## What I Do
+## The thesis
 
-> *"The best businesses run while you sleep. I build the systems that make that possible."*
+Software used to come in a box. You paid once, you owned it, and nobody raised the price at renewal or locked your files behind an expired card.
 
-I design and build **AI-powered automation systems** and **custom software** that strip away the repetitive, the manual, and the time-consuming — so businesses can focus on what actually moves the needle.
+Now there's a monthly fee to take notes. A monthly fee to edit a PDF. A monthly fee for software already sitting on your hard drive doing math your machine could do in 1998.
 
-At **AdvancedMarketing.co**, we combine:
-- **AI & Machine Learning** to make smart decisions at scale
-- **Marketing Automation** to turn cold leads into paying customers — on autopilot
-- **Custom Software** built specifically around how YOUR business works
-- **Revenue-Focused Systems** engineered to grow your bottom line
+So I'm building the replacements. **100 apps. One-time prices from $19. Local-first. Nearly all MIT licensed, right here.**
 
----
+Buy one app because it fixes one thing you're sick of paying for. Buy the whole catalog if you want the whole exit. Both are fine.
 
-## My Stack
-
-**AI & Automation**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
-**Software & Web**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Infrastructure & Data**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+The code is free. The signed installer is what you pay for. If you'd rather clone the repo and build it yourself, do that. I'd genuinely rather you fork it than rent from Loom.
 
 ---
 
-## What I Build
+## Shipped (4)
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   AI AGENTS         →   Systems that think & act for you   │
-│   LEAD AUTOMATION   →   Prospects nurtured 24/7            │
-│   CUSTOM SOFTWARE   →   Built for YOUR workflow            │
-│   REVENUE SYSTEMS   →   Engineered to scale                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+Real, downloadable, in people's hands right now.
+
+| App | What it does | Replaces | Price |
+|---|---|---|---|
+| **[Linkleaf](https://onetimesuite.com)** | Self-hosted link-in-bio: themes, scheduling, email capture, analytics | Linktree ($5–9/mo) | $19 once |
+| **[Captionly](https://onetimesuite.com)** | Local Whisper auto-captions, karaoke word-highlight, ffmpeg burn-in | Submagic ($18–39/mo) | $34 once |
+| **[BloomRecorder](https://onetimesuite.com)** | Screen + camera recording, 100% local, unlimited length, MP4/GIF | Loom ($15/user/mo) | $29 once |
+| **[WisperTalk](https://onetimesuite.com)** | Desktop AI dictation for Win/macOS, Groq Whisper + Llama cleanup | Wispr Flow ($15/mo) | $49 once |
 
 ---
 
-## Featured Projects
+## Planned (96)
 
-### AI Lead Generation System
-> Automated outreach pipeline using AI to identify, qualify, and nurture leads — resulting in 3x more booked calls with zero additional headcount.
+Not shipped. Not "almost shipped." Planned.
 
-### Smart Marketing Dashboard
-> Real-time analytics and AI-powered recommendations that tell you exactly where to put your next dollar for maximum ROI.
+The full catalog is public at [onetimesuite.com](https://onetimesuite.com) with intended pricing, because I'd rather commit to the number in advance than discover it later. PDF tools, background removal, transcription, self-hosted analytics, invoicing, uptime monitoring, e-signature, the rest.
 
-### Business Automation Suite
-> End-to-end workflow automation connecting CRM, email, billing, and fulfillment — saving clients 20+ hours per week.
+Every one lands here as a repo the day it ships. Watch me hit the number or watch me miss it. Both are useful data.
 
 ---
 
-## By The Numbers
+## Why this exists as open source
 
-<div align="center">
+Every objection to one-time pricing is the same objection: *lifetime means the lifetime of the company, not mine.*
 
-| 20+ Hours | 3x More Leads | 100% Automated |
-|:---------:|:-------------:|:--------------:|
-| Saved per week for clients | Generated through AI outreach | Revenue systems running 24/7 |
+Fair. Everyone who has bought a lifetime deal has watched one die.
 
-</div>
+MIT source is the only real answer to that, and it's the whole reason the license is what it is. If I get hit by a bus on day 47, the software doesn't go with me. You keep the code, the build instructions, and the right to do whatever you want with both. No support contract required, no escrow clause, no trusting my roadmap.
 
----
-
-## Let's Work Together
-
-If you're a business owner tired of:
-- Doing repetitive tasks that should be automated
-- Losing leads because follow-up is inconsistent
-- Paying for tools that don't talk to each other
-- Working IN your business instead of ON it
-
-**I build the systems that fix all of that.**
-
-<div align="center">
-
-### [Book a Free Strategy Call at AdvancedMarketing.co](https://AdvancedMarketing.co)
-
-</div>
+That's not generosity. It's the only version of "buy once, own forever" that's actually true.
 
 ---
 
-<div align="center">
+## What I'm building with
 
-*Work Less. Earn More. That's the mission.*
+**Desktop:** Electron / Tauri, local Whisper, ffmpeg, Piper, on-device OCR
+**Web-hosted:** Node, Next.js, SQLite (FTS5), Postgres, Supabase, Docker
+**Infra:** Contabo VPS, Redis / BullMQ, Cloudflare, local GPU inference on an RTX 5060 Ti
+**Design principle:** your hardware does the work, so why are you paying rent on it
 
-**AdvancedMarketing.co**
+---
 
-</div>
+## Fair warnings
 
-<!---
-bensblueprints/bensblueprints is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 100 apps means some will be thin. Thin is fine. Broken is not. If I ship broken, open an issue and be loud about it.
+- Some of these repos are scaffolding ahead of a real release. If a repo has no tagged release, treat it as unfinished.
+- Code signing, notarization, and auto-updates across Windows and macOS at this volume is the unglamorous part that will quietly eat me alive. If you've done it, I'm listening.
+
+---
+
+## Elsewhere
+
+Buy any app on its own, from $19. Or take the whole catalog, including everything I ship later, in one receipt.
+
+[Browse every app](https://onetimesuite.com) · [Buy on Whop](https://whop.com/onetime-suite) · The $997 everything bundle · [advancedmarketing.co](https://advancedmarketing.co)
+
+**Pay once. Own it forever.**
